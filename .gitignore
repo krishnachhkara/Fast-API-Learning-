@@ -3,3 +3,4 @@
 __pycache__/
 db.py 
 database.py
+app/
