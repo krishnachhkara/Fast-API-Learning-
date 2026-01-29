@@ -18,6 +18,5 @@ def home():
 
 #creating CRUD routes with db using sqlalchemy
 @app.get("/posts")
-
-
-
+def pas():
+    pass
